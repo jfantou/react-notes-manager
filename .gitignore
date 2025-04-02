@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# additional repository
+.build
+.DS_Store
+buckets
+junit.xml
